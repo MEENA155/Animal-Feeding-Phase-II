@@ -1,4 +1,4 @@
-# Animal-Feeding-Phase-II
+[# Animal-Feeding-Phase-II
 
 ## Aim:
 To develop a animal feeding game Phase-2 using unity.
@@ -31,8 +31,8 @@ For all the animal prefabs and food in th inspector (below the  layer ) drop dow
 
 ## Program:
 ```
-Developed by: Meena S
-Register Number: 21222140028
+Developed by: Sithi Hajara I
+Register Number: 212221230102
 ```
 ## SPAWN MANAGER:
 ```
@@ -102,3 +102,4 @@ public class DetectCollider : MonoBehaviour
 
 ## Result:
 Animal feeding game Phase-2 using unity is developed successfully.
+](https://github.com/sithihajara/Animal-feeding-Phase-I/blob/main/README.md)https://github.com/sithihajara/Animal-feeding-Phase-I/blob/main/README.md
